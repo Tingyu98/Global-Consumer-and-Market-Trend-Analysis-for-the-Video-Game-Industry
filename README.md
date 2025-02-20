@@ -1,11 +1,11 @@
 # Video-Game-Sales-Exploratory-Data-Analysis
 [Introduction](#Introduction) /
 [Features](#Features) /
-[Key Finding](#KeyFinding) /
+[Key Finding](#Key_Finding) /
 [Results](#Results) /
 [Discussion](#Discussion) /
 [Conclusions](#Conclusions) /
-[Data Sources](#DataSources)
+[Data Sources](#Data_Sources)
 
 ## Introduction
 The global video game industry has become one of the most dynamic and profitable entertainment sectors. To remain competitive, it is essential to understand the factors influencing sales. This project aims to analyze historical data to uncover key trends, including the most successful genres, platforms, publishers, and regional preferences across North America, Europe, and Japan.
@@ -21,7 +21,7 @@ Additionally, the analysis will explore the relationship between a country’s G
 
 [Back to Top](#Video-Game-Sales-Exploratory-Data-Analysis)
 
-## Key Finding
+## Key_Finding
 - Global Trends: Video game sales peaked in the late 2000s, followed by a decline due to market saturation and competition from mobile and online gaming.
 - Popular Genres: Action games became the leading genre, surpassing sports games in releases and sales, especially on platforms like PS2, Xbox 360, and PS3.
 - Regional Insights: North America led in sales, followed by Europe and Japan, with Japan showcasing stable performance despite economic fluctuations.
@@ -102,7 +102,7 @@ action and sports games when brainstorming game ideas. Additionally, it may beho
 
 [Back to Top](#Video-Game-Sales-Exploratory-Data-Analysis)
 
-## Data Sources
+## Data_Sources
 "Video Game Sales." Kaggle,
 https://www.kaggle.com/datasets/gregorut/videogamesales/data.
 "Video Games Rating By 'ESRB'", Kaggle,
