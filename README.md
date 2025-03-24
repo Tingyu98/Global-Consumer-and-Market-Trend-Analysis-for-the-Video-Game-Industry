@@ -6,6 +6,7 @@
 [Discussion](#Discussion) /
 [Conclusions](#Conclusions) /
 [Data Sources](#Data_Sources)
+[Extended Analysis](#Extended_Analysis)
 
 ## Introduction
 The global video game industry has become one of the most dynamic and profitable entertainment sectors. To remain competitive, it is essential to understand the factors influencing sales. This project aims to analyze historical data to uncover key trends, including the most successful genres, platforms, publishers, and regional preferences across North America, Europe, and Japan.
@@ -99,6 +100,16 @@ By addressing challenges and expanding the scope of analysis, stakeholders can b
 
 We have taken steps to identify trends among different platforms, genres, publishers, and geographic regions with respect to sales. Our investigation has let us identify several key insights for game developers and more generally those interested in the video game industry. Namely, we see that the Playstations 2 and 3, the Xbox 360, and the Wii are competitive platforms for those interested in making games, and compatibility with those systems should be considered when the cost is low. Those interested in creating games that cater to a wide audience should consider
 action and sports games when brainstorming game ideas. Additionally, it may behoove aspiring developers to take some inspiration from Nintendo, Electronic Arts, and Activision, as they have been quite successful. Lastly, though Japan is a single country compared to the larger region, marketers should pay attention to the region given the role of video games in its economy. However, these results should still be contextualized in light of the fast-evolving video game industry. Recall that our data is still missing mobile game data, the burgeoning sub-industry in the broader video game landscape. Our results must be taken with the risk that such platforms and genres may drastically change when accounting for mobile games. Further investigation into mobile games will greatly reward aspiring developers.
+
+[Back to Top](#Video-Game-Sales-Exploratory-Data-Analysis)
+
+## Extended Analysis
+<img width="787" alt="image" src="https://github.com/user-attachments/assets/a58c0277-8bde-46c7-b912-253a19f7f8d9" />
+To further analyze the sales trends revealed in Figure 7 regarding the top 10 global video game publishers, an interactive Power BI dashboard was developed. This extended analysis focuses on the global sales performance of these leading publishers across various platforms, game genres, and regions. The dashboard allows users to dynamically filter and visualize key insights, such as Nintendo’s strong performance in platform and role-playing games, as well as regional differences in sales trends across North America, Europe, and Japan.
+
+The dashboard provides a more detailed and interactive approach to data exploration, offering significant value for business analysis. It enables stakeholders to identify top-performing game genres in specific markets, understand regional preferences for gaming platforms, and compare publisher performance over time. These insights can support strategic decisions related to product release planning, marketing resource allocation, and identifying high-potential or underserved market segments.
+
+With real-time filtering and multi-dimensional comparison features, the dashboard serves as a powerful tool for scenario planning and trend forecasting. By transforming static data into interactive visualizations, this extended analysis effectively bridges the gap between data exploration and actionable decision-making.
 
 [Back to Top](#Video-Game-Sales-Exploratory-Data-Analysis)
 
