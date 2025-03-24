@@ -5,7 +5,7 @@
 [Results](#Results) /
 [Discussion](#Discussion) /
 [Conclusions](#Conclusions) /
-[Data Sources](#Data_Sources)
+[Data Sources](#Data_Sources) /
 [Extended Analysis](#Extended_Analysis)
 
 ## Introduction
