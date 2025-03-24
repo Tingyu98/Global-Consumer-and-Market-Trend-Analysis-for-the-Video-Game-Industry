@@ -105,6 +105,7 @@ action and sports games when brainstorming game ideas. Additionally, it may beho
 
 ## Extended_Analysis
 <img width="787" alt="image" src="https://github.com/user-attachments/assets/a58c0277-8bde-46c7-b912-253a19f7f8d9" />
+
 To further analyze the sales trends revealed in Figure 7 regarding the top 10 global video game publishers, an interactive Power BI dashboard was developed. This extended analysis focuses on the global sales performance of these leading publishers across various platforms, game genres, and regions. The dashboard allows users to dynamically filter and visualize key insights, such as Nintendo’s strong performance in platform and role-playing games, as well as regional differences in sales trends across North America, Europe, and Japan.
 
 The dashboard provides a more detailed and interactive approach to data exploration, offering significant value for business analysis. It enables stakeholders to identify top-performing game genres in specific markets, understand regional preferences for gaming platforms, and compare publisher performance over time. These insights can support strategic decisions related to product release planning, marketing resource allocation, and identifying high-potential or underserved market segments.
