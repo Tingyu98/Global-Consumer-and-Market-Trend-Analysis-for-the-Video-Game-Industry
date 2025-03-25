@@ -1,4 +1,4 @@
-# Video-Game-Sales-Exploratory-Data-Analysis
+# Global-Consumer-and-Market-Trend-Analysis-for-the-Video-Game-Industry
 [Introduction](#Introduction) /
 [Features](#Features) /
 [Key Finding](#Key_Finding) /
@@ -13,14 +13,14 @@ The global video game industry has become one of the most dynamic and profitable
 
 Additionally, the analysis will explore the relationship between a country’s GDP and video game sales, shedding light on how economic factors influence market performance. The findings will be presented using intuitive visualizations to ensure clarity and accessibility, enabling video game companies and stakeholders to leverage these insights for strategic decision-making and market expansion.
 
-[Back to Top](#Video-Game-Sales-Exploratory-Data-Analysis)
+[Back to Top](#Global-Consumer-and-Market-Trend-Analysis-for-the-Video-Game-Industry)
 
 ## Features
 - Exploratory data analysis (EDA)
 - Visualization
 - Tools and frameworks (R, ggplot2, dplyr, tidyverse, Plotly)
 
-[Back to Top](#Video-Game-Sales-Exploratory-Data-Analysis)
+[Back to Top](#Global-Consumer-and-Market-Trend-Analysis-for-the-Video-Game-Industry)
 
 ## Key_Finding
 - Global Trends: Video game sales peaked in the late 2000s, followed by a decline due to market saturation and competition from mobile and online gaming.
@@ -30,7 +30,7 @@ Additionally, the analysis will explore the relationship between a country’s G
 - Economic Correlation: GDP and sales trends aligned before 2008, but sales recovery lagged behind GDP post-crisis, except in Japan, where sales remained steady.
 - Consumer Behavior: Higher IGN scores (above 7.5) generally correlated with greater sales, though exceeding this threshold did not guarantee higher performance. Steam reviews showed greater variability, even among top-selling games.
 
-[Back to Top](#Video-Game-Sales-Exploratory-Data-Analysis)
+[Back to Top](#Global-Consumer-and-Market-Trend-Analysis-for-the-Video-Game-Industry)
 
 ## Results
 <img width="703" alt="image" src="https://github.com/user-attachments/assets/0bc8ac68-b2d4-4d06-a0fe-4618f91e25a0" />
@@ -94,14 +94,14 @@ To enhance the precision and comprehensiveness of the analysis, several improvem
 
 By addressing challenges and expanding the scope of analysis, stakeholders can better predict consumer behavior and market dynamics. That ensures ongoing innovation and competitiveness in the industry.
 
-[Back to Top](#Video-Game-Sales-Exploratory-Data-Analysis)
+[Back to Top](#Global-Consumer-and-Market-Trend-Analysis-for-the-Video-Game-Industry)
 
 ## Conclusion
 
 We have taken steps to identify trends among different platforms, genres, publishers, and geographic regions with respect to sales. Our investigation has let us identify several key insights for game developers and more generally those interested in the video game industry. Namely, we see that the Playstations 2 and 3, the Xbox 360, and the Wii are competitive platforms for those interested in making games, and compatibility with those systems should be considered when the cost is low. Those interested in creating games that cater to a wide audience should consider
 action and sports games when brainstorming game ideas. Additionally, it may behoove aspiring developers to take some inspiration from Nintendo, Electronic Arts, and Activision, as they have been quite successful. Lastly, though Japan is a single country compared to the larger region, marketers should pay attention to the region given the role of video games in its economy. However, these results should still be contextualized in light of the fast-evolving video game industry. Recall that our data is still missing mobile game data, the burgeoning sub-industry in the broader video game landscape. Our results must be taken with the risk that such platforms and genres may drastically change when accounting for mobile games. Further investigation into mobile games will greatly reward aspiring developers.
 
-[Back to Top](#Video-Game-Sales-Exploratory-Data-Analysis)
+[Back to Top](#Global-Consumer-and-Market-Trend-Analysis-for-the-Video-Game-Industry)
 
 ## Extended_Analysis
 <img width="787" alt="image" src="https://github.com/user-attachments/assets/a58c0277-8bde-46c7-b912-253a19f7f8d9" />
@@ -112,7 +112,7 @@ The dashboard provides a more detailed and interactive approach to data explorat
 
 With real-time filtering and multi-dimensional comparison features, the dashboard serves as a powerful tool for scenario planning and trend forecasting. By transforming static data into interactive visualizations, this extended analysis effectively bridges the gap between data exploration and actionable decision-making.
 
-[Back to Top](#Video-Game-Sales-Exploratory-Data-Analysis)
+[Back to Top](#Global-Consumer-and-Market-Trend-Analysis-for-the-Video-Game-Industry)
 
 ## Data_Sources
 "Video Game Sales." Kaggle,
@@ -127,4 +127,4 @@ https://www.kaggle.com/datasets/advancedforestry/ign-scores-dataset.
 https://www.reddit.com/r/gamedev/comments/x0qs4z/we_gathered_data_about_54000_games_
 in_steam_and/.
 
-[Back to Top](#Video-Game-Sales-Exploratory-Data-Analysis)
+[Back to Top](#Global-Consumer-and-Market-Trend-Analysis-for-the-Video-Game-Industry)
