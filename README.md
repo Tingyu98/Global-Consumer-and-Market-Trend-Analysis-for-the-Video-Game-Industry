@@ -52,7 +52,7 @@ This interactive dashboard highlights:
 * Global, regional, and genre-level sales performance.
 * User-friendly filtering for exploring regions, publishers, and genres dynamically.
 
-## Application / Recommendation
+## Recommendation
 * **For Developers**: Focus on action and sports genres to maximize broad audience reach.
 * **For Publishers**: Leverage blockbuster strategies like Nintendo to dominate market share.
 * **For Marketers**: Target North America and Europe for volume, but recognize Japan’s stability as a long-term market.
