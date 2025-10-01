@@ -17,8 +17,7 @@ By combining **exploratory data analysis**, **visualization**, and **economic co
   * Video game sales dataset (Kaggle) https://www.kaggle.com/datasets/gregorut/videogamesales/data.
   * ESRB ratings (Kaggle) https://www.kaggle.com/datasets/imohtn/video-games-rating-by-esrb.
   * IGN scores dataset (Kaggle) https://www.kaggle.com/datasets/advancedforestry/ign-scores-dataset.
-  * Steam review data (Reddit) https://www.reddit.com/r/gamedev/comments/x0qs4z/we_gathered_data_about_54000_games_
-in_steam_and/.
+  * Steam review data (Reddit) https://www.reddit.com/r/gamedev/comments/x0qs4z/we_gathered_data_about_54000_games_in_steam_and/.
   * GDP per capita (World Bank DataBank) https://databank.worldbank.org/indicator/NY.GDP.PCAP.CD/1ff4a498/Popular-Indicators#
 
 * Data Processing & EDA
